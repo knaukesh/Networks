@@ -1,5 +1,4 @@
-#Proxy server 
-program contains three .cpp files
+Proxy server program contains three .cpp files
 1. server.cpp
 2. ps.cpp
 3. client.cpp
